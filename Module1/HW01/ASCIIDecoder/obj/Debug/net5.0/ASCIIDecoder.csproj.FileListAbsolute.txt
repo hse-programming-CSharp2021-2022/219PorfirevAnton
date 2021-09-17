@@ -1,0 +1,16 @@
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.exe
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.deps.json
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.runtimeconfig.json
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.runtimeconfig.dev.json
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.dll
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ref\ASCIIDecoder.dll
+C:\work\HW_1\ASCIIDecoder\bin\Debug\net5.0\ASCIIDecoder.pdb
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.csproj.AssemblyReference.cache
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.AssemblyInfoInputs.cache
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.AssemblyInfo.cs
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.dll
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ref\ASCIIDecoder.dll
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.pdb
+C:\work\HW_1\ASCIIDecoder\obj\Debug\net5.0\ASCIIDecoder.genruntimeconfig.cache

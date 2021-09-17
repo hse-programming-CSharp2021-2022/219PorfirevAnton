@@ -1,0 +1,16 @@
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.exe
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.deps.json
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.runtimeconfig.json
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.runtimeconfig.dev.json
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.dll
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\ref\Task02.dll
+C:\work\repos\HW02\Task02\bin\Debug\net5.0\Task02.pdb
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.AssemblyInfoInputs.cache
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.AssemblyInfo.cs
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.csproj.CoreCompileInputs.cache
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.dll
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\ref\Task02.dll
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.pdb
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.genruntimeconfig.cache
+C:\work\repos\HW02\Task02\obj\Debug\net5.0\Task02.csproj.AssemblyReference.cache

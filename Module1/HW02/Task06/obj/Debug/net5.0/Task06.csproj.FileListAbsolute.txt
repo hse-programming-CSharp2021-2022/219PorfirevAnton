@@ -1,0 +1,16 @@
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.exe
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.deps.json
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.runtimeconfig.json
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.runtimeconfig.dev.json
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.dll
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\ref\Task06.dll
+C:\work\repos\HW02\Task06\bin\Debug\net5.0\Task06.pdb
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.csproj.AssemblyReference.cache
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.AssemblyInfoInputs.cache
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.AssemblyInfo.cs
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.csproj.CoreCompileInputs.cache
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.dll
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\ref\Task06.dll
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.pdb
+C:\work\repos\HW02\Task06\obj\Debug\net5.0\Task06.genruntimeconfig.cache
