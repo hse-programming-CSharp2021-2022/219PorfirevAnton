@@ -53,7 +53,7 @@ namespace Task01
         {
             int.TryParse(Console.ReadLine(), out int l);
             int.TryParse(Console.ReadLine(), out int n);
-            Console.WriteLine(merge_sort(n, l));
+            Console.WriteLine(merge_sort(n, l)); 
         }
     }
 }

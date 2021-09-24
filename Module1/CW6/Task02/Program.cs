@@ -24,7 +24,7 @@ namespace Task02
             }
             for (int i = 0; i < c; ++i)
             {
-                Console.WriteLine(a[i]);
+                Console.WriteLine(a[i]); 
             }
         }
     }
