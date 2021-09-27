@@ -1,0 +1,16 @@
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.exe
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.deps.json
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.runtimeconfig.json
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.runtimeconfig.dev.json
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.dll
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\ref\Task07.dll
+C:\work\219PorfirevAnton\Module1\HW04\Task07\bin\Debug\net5.0\Task07.pdb
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.csproj.AssemblyReference.cache
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.AssemblyInfoInputs.cache
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.AssemblyInfo.cs
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.csproj.CoreCompileInputs.cache
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.dll
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\ref\Task07.dll
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.pdb
+C:\work\219PorfirevAnton\Module1\HW04\Task07\obj\Debug\net5.0\Task07.genruntimeconfig.cache
