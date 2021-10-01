@@ -18,7 +18,7 @@ namespace Task07
         }
         static void Main(string[] args)
         {
-            int a = 15, b = 10;
+            int a = 11, b = 1;
             GCD_LCM(a, b, out int g, out int l);
             Console.WriteLine(l);
         }
