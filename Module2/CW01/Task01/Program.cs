@@ -58,7 +58,7 @@ namespace Task01
                     Console.ForegroundColor = ConsoleColor.Red; // устанавливаем цвет
                     Console.WriteLine(Convert.ToString(sq[i]), t2);
                     Console.ResetColor(); // сбрасываем в стандартный
-                }
+                 }
                 else
                 {
                     Console.WriteLine(Convert.ToString(sq[i]));
