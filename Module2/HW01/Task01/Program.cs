@@ -62,7 +62,7 @@ namespace Task01
                 Array.Sort(arr, cmp);
                 foreach (var point in arr)
                 {
-                    Console.WriteLine(point.PointData);
+                    Console.WriteLine(point.PointData); 
                 }
             } while (x != 0 || y != 0);
         }
