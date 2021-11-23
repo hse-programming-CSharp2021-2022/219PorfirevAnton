@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{5ABDA96B-F876-4F14-B364-17CE34C52703}|Default">
+  <MonoDevelop.Ide.ItemProperties.01__TaskStringSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_TaskSetSolution/RedisClient.cs">
+    <Files>
+      <File FileName="01_TaskStringSolution/Program.cs" Line="39" Column="49" />
+      <File FileName="01_TaskStringSolution/RedisClient.cs" Line="13" Column="13" />
+      <File FileName="02_TaskIntSolution/RedisClient.cs" Line="51" Column="22" />
+      <File FileName="02_TaskIntSolution/Program.cs" Line="45" Column="1" />
+      <File FileName="01_TaskString/Program.cs" Line="1" Column="1" />
+      <File FileName="01_TaskString/RedisClient.cs" Line="8" Column="9" />
+      <File FileName="02_TaskInt/RedisClient.cs" Line="10" Column="9" />
+      <File FileName="02_TaskInt/Program.cs" Line="1" Column="1" />
+      <File FileName="00_BaseExamples/Program.cs" Line="13" Column="13" />
+      <File FileName="03_TaskListSolution/Program.cs" Line="29" Column="14" />
+      <File FileName="03_TaskListSolution/RedisClient.cs" Line="8" Column="8" />
+      <File FileName="04_TaskSetSolution/Program.cs" Line="30" Column="13" />
+      <File FileName="04_TaskSetSolution/RedisClient.cs" Line="6" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeRedis" expanded="True">
+            <Node name="00_BaseExamples" expanded="True" />
+            <Node name="01_TaskString" expanded="True" />
+            <Node name="01_TaskStringSolution" expanded="True" />
+            <Node name="02_TaskInt" expanded="True" />
+            <Node name="02_TaskIntSolution" expanded="True" />
+            <Node name="03_TaskListSolution" expanded="True" />
+            <Node name="04_TaskSetSolution" expanded="True">
+              <Node name="RedisClient.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02__TaskIntSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.00__BaseExamples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01__TaskString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
