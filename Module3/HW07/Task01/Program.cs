@@ -50,7 +50,7 @@ namespace Task01
             Array.ForEach(characters, (Person character) => Console.WriteLine(character));
             Console.WriteLine();
             Array.Sort(characters);
-            Array.ForEach(characters, (Person character) => Console.WriteLine(character));
+            Array.ForEach(characters, (Person character) => Console.WriteLine(character)); 
         }
     }
 }
