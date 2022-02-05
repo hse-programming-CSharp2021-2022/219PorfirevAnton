@@ -13,7 +13,7 @@ namespace PizzaStuff
         {
             foreach (Ingredients item in Enum.GetValues(typeof(Ingredients)))
             {
-                storage[item] = 0;
+                storage[item] = 0; 
             }
         }
         /// <summary>
