@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Text;
 
 namespace Task01
 {
@@ -9,6 +9,7 @@ namespace Task01
     {
         public T Value { get; set; }
         int count;
+        int countLeft;
         BTnode<T> left;
         BTnode<T> right;
         public bool IsLeave
@@ -25,6 +26,7 @@ namespace Task01
             count = 1;
             left = null;
             right = null;
+            countLeft = 0;
         }
 
         public void InsertValue(T value)
@@ -54,6 +56,7 @@ namespace Task01
                 {
                     left = new BTnode<T>(value);
                 }
+                countLeft = left.countLeft + 1;
             }
         }
 
@@ -167,6 +170,38 @@ namespace Task01
             }
             return false;
         }
+
+        public void Postorder()
+        {
+            Queue<(BTnode<T>, int, int)> queue = new Queue<(BTnode<T>, int, int)>();
+            List<StringBuilder> ans = new List<StringBuilder>();
+            queue.Enqueue((this, 0, countLeft));
+            while (queue.Count != 0)
+            {
+                (BTnode<T> step, int depht, int stride) = queue.Dequeue();
+                bool isLeft = false;
+                if(depht == ans.Count)
+                {
+                    if(depht != 0)
+                        Console.WriteLine(ans[depht - 1]);
+                    ans.Add(new StringBuilder());
+                    isLeft = true;
+                }
+                for(int _ = 0; _ < (isLeft ? stride: 2); ++_)
+                {
+                    ans[depht].Append('\t');
+                }
+                ans[depht].Append(step.Value);
+                if (step.left != null)
+                {
+                    queue.Enqueue((step.left, depht + 1, stride - 1));
+                }
+                if (step.right != null)
+                {
+                    queue.Enqueue((step.right, depht + 1, stride + 1));
+                }
+            }
+        }
     }
 
     class BinaryTree<T>
@@ -240,6 +275,14 @@ namespace Task01
                 root.PrintBack();
             }
         }
+
+        public void Postorder()
+        {
+            if (!IsEmpty)
+            {
+                root.Postorder();
+            }
+        }
     }
 
     class Program
@@ -247,11 +290,11 @@ namespace Task01
         static void Main(string[] args)
         {
             BinaryTree<int> tree = new BinaryTree<int>();
-            for(int i = 0; i < 11; i += 2)
+            for(int i = 0; i < 10; i++)
             {
                 tree.Insert(i);
             }
-            for (int i = 1; i < 12; i += 2)
+            for (int i = -1; i > -11; i--)
             {
                 tree.Insert(i);
             }
