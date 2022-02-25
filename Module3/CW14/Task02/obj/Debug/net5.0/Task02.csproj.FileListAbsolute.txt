@@ -1,0 +1,16 @@
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.exe
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.deps.json
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.runtimeconfig.json
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.runtimeconfig.dev.json
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.dll
+C:\work\CW14\Task02\bin\Debug\net5.0\ref\Task02.dll
+C:\work\CW14\Task02\bin\Debug\net5.0\Task02.pdb
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.csproj.AssemblyReference.cache
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.AssemblyInfoInputs.cache
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.AssemblyInfo.cs
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.csproj.CoreCompileInputs.cache
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.dll
+C:\work\CW14\Task02\obj\Debug\net5.0\ref\Task02.dll
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.pdb
+C:\work\CW14\Task02\obj\Debug\net5.0\Task02.genruntimeconfig.cache
